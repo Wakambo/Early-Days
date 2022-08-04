@@ -1,5 +1,5 @@
 # Early-Days
-Early Days Programming Tutorials by following freecode camp tutorials by John Smelga and Anna Ania Kubów 
+Early Days Programming Tutorials by following freecode camp tutorials by John Smelga and Ania Kubów 
 
 Rock Paper Scissors
 Memory Game
